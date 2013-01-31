@@ -5,4 +5,3 @@ testing-stuff-on-github
 
 .. image:: stefanfoulis.jpeg
    :width: 50px
-   :alt: stefanfoulis' avatar
